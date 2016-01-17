@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[MKTAC]]></title>
+        <description><![CDATA[MKTAC]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 17 Jan 2016 15:47:57 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Who needs to be there?]]></title>
+            <description><![CDATA[<article><h1>Who needs to be there?</h1><p>It's time for Marketing Professionals to have a place to meet and discuss the latest in Marketing Technology and strategies.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ea23048b9d8ecdc5376ceb8e7afe0d8ae0624a67.jpg"></article>]]></description>
+            <link>undefinedthe-marketing-technology-association/index.html</link>
+            <guid isPermaLink="false">965f497e-79d1-4efd-8bbb-6bf24980a997</guid>
+            <pubDate>Sun, 17 Jan 2016 15:42:32 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
