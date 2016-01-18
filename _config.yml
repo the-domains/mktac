@@ -1,6 +1,6 @@
 name: MKTAC
 favicon: null
-layout_spectrum: 0.35646
+layout_spectrum: 0.3643010628875345
 typography_spectrum: 0.8507425205316395
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ffffff'
-    - '#a7a7a7'
-    - '#d0d0d0'
-    - '#575757'
-    - '#d87d3f'
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
   brandStrength: 0.6466506943106651
-  lightness: 0.5
-  saturation: 0.5625
+  lightness: 0.23443050286732614
+  saturation: 0.7511577743571252
   rhythmicContrast: 0.7271502166986465
 purpose: []
